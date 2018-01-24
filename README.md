@@ -1,0 +1,2 @@
+## FETCH API Example
+In this simple application, we will post the user's message and fetch the information to display in the web page after user clicks submit button using Fetch API. For this, practice purpose, I used [JsonPlaceholder](https://jsonplaceholder.typicode.com), a fake online REST API for testing purpose, and to look UI nicer, I used [BootStrap](https://getbootstrap.com/). 
